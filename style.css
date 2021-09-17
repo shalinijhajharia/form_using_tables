@@ -1,0 +1,14 @@
+table {
+    border-collapse: collapse;
+  }
+  td
+  {
+    font-family:	Arial;
+    padding: 10px;
+    height: 30px;
+    width:15%;
+    text-align: center
+  }
+  .c1{
+    background-color:#81f576;
+  }
